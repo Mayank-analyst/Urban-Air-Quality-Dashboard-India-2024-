@@ -65,7 +65,8 @@ The goal of this project is to identify **pollution patterns, high-risk periods,
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard/DASHBOARD SCREENSHOT.png)
+![Dashboard Preview](AQI_analysis_2024/SCREENSHOT/DASHBOARD%20SCREENSHOT.png)
+
 
 
 ## 🧠 Key Insights
