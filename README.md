@@ -65,7 +65,7 @@ The goal of this project is to identify **pollution patterns, high-risk periods,
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard/DASHBOARD_SCREENSHOT.png)
+![Dashboard](dashboard/https://github.com/Mayank-analyst/Urban-Air-Quality-Dashboard-India-2024-/blob/main/AQI_analysis_2024/SCREENSHOT/DASHBOARD%20SCREENSHOT.png)
 
 
 ## 🧠 Key Insights
