@@ -64,6 +64,10 @@ The goal of this project is to identify **pollution patterns, high-risk periods,
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard/DASHBOARD_SCREENSHOT.png)
+
+
 ## 🧠 Key Insights
 - **PM2.5 is the dominant contributor** to poor air quality across most cities
 - Air quality is **slightly worse on weekends**, possibly due to increased travel and leisure activities
