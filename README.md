@@ -114,6 +114,6 @@ The goal of this project is to identify **pollution patterns, high-risk periods,
 
 ## 👤 Author
 **Mayank Bisht**  
-Aspiring Data Analyst | Excel | SQL | Power BI
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 
